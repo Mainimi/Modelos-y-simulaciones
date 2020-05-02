@@ -1,0 +1,25 @@
+{
+  "name": "modelos-y-simulaciones",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mainimi/Modelos-y-simulaciones.git"
+  },
+  "author": "Mainimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mainimi/Modelos-y-simulaciones/issues"
+  },
+  "homepage": "https://github.com/Mainimi/Modelos-y-simulaciones#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "chart.js": "^2.9.3",
+    "jquery": "^3.5.0",
+    "mathjs": "^6.6.4"
+  }
+}
